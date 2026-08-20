@@ -1,6 +1,6 @@
 # 🍴 Zomato Analytics
 
-## 📌 Project Description
+##  Project Description
 
 **Zomato Analytics** is an end-to-end data analytics and business intelligence project built to analyze restaurant data and uncover meaningful insights about restaurant distribution, ratings, pricing, cuisines, customer votes, online delivery, table booking, and restaurant opening trends.
 
@@ -10,7 +10,7 @@ The objective is to transform raw restaurant data into clear, interactive, and b
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze restaurant distribution across cities and countries.
 - Identify top-rated restaurants.
@@ -25,7 +25,7 @@ The objective is to transform raw restaurant data into clear, interactive, and b
 
 ---
 
-## 📊 Key Project Metrics
+##  Key Project Metrics
 
 | KPI | Value |
 |---|---:|
@@ -68,7 +68,7 @@ The Tableau dashboard provides an interactive executive-level view of the Zomato
 
 ### Tableau Dashboard Screenshot
 
-![Zomato Tableau Analytics Dashboard](Dashboard_Images/01_tableau_dashboard.png)
+
 
 ---
 
@@ -101,7 +101,7 @@ The Power BI dashboard provides an interactive business intelligence view of the
 
 ### Power BI Dashboard Screenshot
 
-![Zomato Power BI Analytics Dashboard](Dashboard_Images/02_powerbi_dashboard.png)
+
 
 ---
 
@@ -130,7 +130,7 @@ The Excel dashboard provides an additional interactive analysis of the Zomato da
 
 ### Excel Dashboard Screenshot
 
-![Zomato Excel Analytics Dashboard](Dashboard_Images/03_excel_dashboard.png)
+
 
 ---
 
